@@ -1,0 +1,16 @@
+body {
+  background-color:pink;
+  margin: 0;
+}
+    hr {
+      border-style: dashed;
+      background-color: #DB7093;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    h2 {
+      color: #DB7093;
+    }
+    h1 {
+      color: #DB7093;
+    }
